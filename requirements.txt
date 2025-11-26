@@ -3,5 +3,9 @@ uvicorn
 pandas
 numpy
 scikit-learn
+matplotlib
+uvloop
+httptools
+gunicorn==19.9.0
 pydantic
 python-multipart
