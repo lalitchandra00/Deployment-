@@ -5,5 +5,5 @@ class Values(BaseModel):
     Size: int
     Area: str
     City: str
-    Furnishing : str
+    Furnishing: str
     Bathroom: int
